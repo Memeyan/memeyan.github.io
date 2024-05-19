@@ -12,5 +12,5 @@ https://memeyan.github.io/
 
 Copyright
 
-- Declaración de derechos de autor: Libre para compartir - No comercial - No derivada - Atribución requerida [Licencia Creative Commons 4.0][(https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es))
+- Declaración de derechos de autor: Libre para compartir - No comercial - No derivada - Atribución requerida ([Licencia Creative Commons 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es))
 - Autor original: Memeyan (YanChuangCai)
